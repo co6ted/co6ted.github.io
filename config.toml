@@ -30,15 +30,15 @@ hasCJKLaunguage = true
 
 ## Main Menu
 [[menu.main]]
-  name = "Posts"
+  name = "Resume"
+  identifier = "resume"
   weight = 100
-  identifier = "posts"
-  url = "/posts/"
+  url = "/resume/"
 [[menu.main]]
-  name = "Documents"
-  identifier = "documents"
+  name = "skills"
+  identifier = "skills"
   weight = 200
-  url = "/documents/"
+  url = "/skills/"
 [[menu.main]]
   name = "About"
   identifier = "about"
