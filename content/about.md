@@ -20,7 +20,7 @@ date = "2020-03-11"
 - [Qiita](https://qiita.com/co6ted)
 
 ### Resume
-- [職務経歴書](https://co6ted.github.io/resume/)
+- [職務経歴書](https://co6ted.github.io/logs/)
 
 ### Skill
-- [スキル一覧](https://co6ted.github.io/skill/)
+- [スキル](https://co6ted.github.io/skills/)
