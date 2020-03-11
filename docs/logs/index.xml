@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>co6ted&#39;s info</title>
+    <link>https://co6ted.github.io/logs/</link>
+    <description>Recent content on co6ted&#39;s info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://co6ted.github.io/logs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>職務経歴書</title>
+      <link>https://co6ted.github.io/logs/resume/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://co6ted.github.io/logs/resume/</guid>
+      <description>-&amp;gt; アットホーム株式会社(2016/04 - 現職)  消費者向け不動産物件サイトの開発・保守運用  相場サイトの開発・保守運用 戸建物件業務システム新機能の企画・開発・保守運用 企画管理者向け業務効率化ツールの開発   不動産物件データを用いてのデータ分析  採用 / 教育 採用活動  新卒を対象として人事部と協力して手伝いをした  イベント参加 座談会参加    教育活動  新卒エンジニアに3ヶ月のOJTを行った  スキル 言語 PHP, Smarty, Java, JavaScript, jQuery, HTML, Shell, PL/SQL, VBA, Ruby, Python, Node.js
+フレームワーク Zend Framework, Ruby on Rails, Spring
+DB Oracle11i, AWS, Redis, MySQL, PostgreSQL
+その他ミドルウェア Apache, Tomcat
+ツール Slack, Hipchat, Zoom, Git, Bitbucket, Redmine, JIRA, Confluence, Jenkins, Docker, Vagrant, VirtualBox</description>
+    </item>
+    
+  </channel>
+</rss>
