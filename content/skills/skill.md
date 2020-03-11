@@ -1,17 +1,18 @@
 +++
 title = "スキル一覧"
-description = "実務経験ありとなし(趣味程度)"
-date = "2020-03-11"
+description = '実務経験ありとなし(趣味程度)'
+date = '2020-03-11'
 +++
 
 ### -> 実務経験あり
 - 言語
-  - PHP, Smarty, Java, JavaScript, jQuery, HTML, Shell, PL/SQL, VBA, Ruby, Python, Node.js
+  - PHP[5.x], Smarty[2.6.x], jQuery[1.8.x], Python[3.x], Node.js[10.x/8.x], Java[8]
+  - JavaScript, HTML5, CSS, Shell, PL/SQL, VBA, Ruby
 - フレームワーク
-  - Zend Framework, Spring, Ruby on Rails
+  - Zend Framework[1], Spring Framework, Ruby on Rails
 - DB
-  - Oracle11i, AWS, Redis, MySQL, PostgreSQL
-- その他ミドルウェア
+  - Oracle[11i], AWS, Redis, MySQL, PostgreSQL
+- ミドルウェア
   - Apache, Tomcat
 - 機械学習(Machine Learning)&ディープラーニング(Deep Learning)
   - Numpy, Pandas, SciPy, Matplotlib, scikit-learn
@@ -19,7 +20,7 @@ date = "2020-03-11"
   - コミュニケーション
     - Slack, Hipchat, Zoom
   - バージョン管理
-    - Git, SVN, Bitbucket
+    - Git, SVN, Bitbucket, TortoiseGit
   - プロジェクト管理
     - Redmine, JIRA
   - Wiki
@@ -27,7 +28,7 @@ date = "2020-03-11"
   - CI/CD
     - Jenkins
   - その他
-    - Vagrant, Docker, VirtualBox
+    - Vagrant, Docker, VirtualBox, JP1
 
 ### -> 実務経験なし&趣味
 - 言語

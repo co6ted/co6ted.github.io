@@ -1,7 +1,7 @@
 +++
 title = "職務経歴書"
 description = "職務経歴書です"
-date = "2020-03-11"
+date = '2020-03-11'
 +++
 
 ### -> アットホーム株式会社(2016/04 - 現職)
@@ -24,10 +24,10 @@ date = "2020-03-11"
 PHP, Smarty, Java, JavaScript, jQuery, HTML, Shell, PL/SQL, VBA, Ruby, Python, Node.js
 
 ##### フレームワーク
-Zend Framework, Ruby on Rails, Spring
+Zend Framework, Ruby on Rails, Spring Framework
 
 ##### DB
-Oracle11i, AWS, Redis, MySQL, PostgreSQL
+Oracle, AWS, Redis, MySQL, PostgreSQL
 
 ##### その他ミドルウェア
 Apache, Tomcat

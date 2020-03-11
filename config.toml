@@ -30,17 +30,22 @@ hasCJKLaunguage = true
 
 ## Main Menu
 [[menu.main]]
-  name = "Logs"
-  identifier = "logs"
+  name = "About"
+  identifier = "about"
   weight = 100
-  url = "/logs/"
+  url = "/about/"
+[[menu.main]]
+  name = "Resume"
+  identifier = "logs"
+  weight = 200
+  url = "/logs/resume/"
 [[menu.main]]
   name = "skills"
   identifier = "skills"
-  weight = 200
-  url = "/skills/"
-[[menu.main]]
-  name = "About"
-  identifier = "about"
   weight = 300
-  url = "/about/"
+  url = "/skills/skill/"
+[[menu.main]]
+  name = "Links"
+  identifier = "other"
+  weight = 400
+  url = "/other/link/"
