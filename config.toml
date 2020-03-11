@@ -1,3 +1,46 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+## Basic Configuration
+baseURL = "https://co6ted.github.io/"
+languageCode = "ja"
+title = "co6ted's info"
+publishDir = "docs"
+theme = "hyde-hyde"
+hasCJKLaunguage = true
+
+## Site Setting
+[params]
+  #author = ""
+  #title = ""
+  #authorimage = ""
+  #datefformat = ""
+
+  # sidebar, copyright
+  copyright = "Komuro Yuta"
+  showBuiltwith = true
+
+  highlightjs = true
+  highlightjsstyle = "github"
+
+## Social Accounts
+[params.social]
+  github = "co6ted"
+  linkedin = "co6ted"
+  twitter = "co6ted"
+  facebook = "co6ted"
+  email = "co6ted@gmail.com"
+
+## Main Menu
+[[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+[[menu.main]]
+  name = "Documents"
+  identifier = "documents"
+  weight = 200
+  url = "/documents/"
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 300
+  url = "/about/"
