@@ -1,7 +1,7 @@
 +++
 title = "Link一覧"
-description = ""
-date = '2020-03-11'
+description = "当サイトのLinkをまとめました。"
+date = "2020-03-11"
 +++
 
 ### Blogs
