@@ -35,12 +35,40 @@ DB Oracle, AWS, Redis, MySQL, PostgreSQL
     </item>
     
     <item>
+      <title>About me</title>
+      <link>https://co6ted.github.io/logs/about/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://co6ted.github.io/logs/about/</guid>
+      <description> Name : 小室 勇太 (Komuro Yuta) ID : co6ted  実務経験 エンジニアとして4年間の実務経験があります。 最初の3年間は社内SEエンジニアとしてWEBサービス(不動産)の開発運用を経験しました。 残りの1年間は機械学習エンジニア/データサイエンティスト見習いを経験しました。
+趣味  ロードバイク 読書 ゲーム ボードゲーム テーブルトークRPG ダーツ ビリヤード グルメツアー 興味あるイベントへの参加  </description>
+    </item>
+    
+    <item>
+      <title>Link一覧</title>
+      <link>https://co6ted.github.io/logs/link/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://co6ted.github.io/logs/link/</guid>
+      <description>Blogs  co6ted.github.io くまの日常記録 くまのプログラム日記  Accounts  Github Linkedin Twitter Facebook Qiita  Resume  職務経歴書  Skill  スキル  </description>
+    </item>
+    
+    <item>
       <title>Link一覧</title>
       <link>https://co6ted.github.io/other/link/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://co6ted.github.io/other/link/</guid>
       <description>Blogs  co6ted.github.io くまの日常記録 くまのプログラム日記  Accounts  Github Linkedin Twitter Facebook Qiita  Resume  職務経歴書  Skill  スキル  </description>
+    </item>
+    
+    <item>
+      <title>スキル一覧</title>
+      <link>https://co6ted.github.io/logs/skill/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://co6ted.github.io/logs/skill/</guid>
+      <description>-&amp;gt; 実務経験あり  言語  PHP[5.x], Smarty[2.6.x], jQuery[1.8.x], Python[3.x], Node.js[10.x/8.x], Java[8] JavaScript, HTML5, CSS, Shell, PL/SQL, VBA, Ruby   フレームワーク  Zend Framework[1], Spring Framework, Ruby on Rails   DB  Oracle[11i], AWS, Redis, MySQL, PostgreSQL   ミドルウェア  Apache, Tomcat   機械学習(Machine Learning)&amp;amp;ディープラーニング(Deep Learning)  Numpy, Pandas, SciPy, Matplotlib, scikit-learn   ツール  コミュニケーション  Slack, Hipchat, Zoom   バージョン管理  Git, SVN, Bitbucket, TortoiseGit   プロジェクト管理  Redmine, JIRA   Wiki  Redmine, Confluence   CI/CD  Jenkins   その他  Vagrant, Docker, VirtualBox, JP1      -&amp;gt; 実務経験なし&amp;amp;趣味  言語  C, C#, C++, Go, 吉里吉里   プラットフォーム  GCP, Firebase, Heroku   ツール  コミュニケーション  Skype, Discord   バージョン管理  Github, GitLab   プロジェクト管理  Trello, Wunderlist   Wiki  Notion, ScrapBox      </description>
     </item>
     
     <item>
