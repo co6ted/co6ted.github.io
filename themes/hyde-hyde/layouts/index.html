@@ -4,6 +4,7 @@
 
 {{ define "content" }}
   <div class="post-list">
+    <h1>更新内容</h1>
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) }}
     {{ range $paginator.Pages }}
       {{ if .Draft }}
