@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseURL = "https://co6ted.github.io/"
+baseURL = "https://co6ted.github.io/about/"
 languageCode = "ja"
 title = "co6ted's info"
 publishDir = "docs"
@@ -11,17 +11,24 @@ hasCJKLaunguage = true
   #author = ""
   #title = ""
   #authorimage = ""
-  #datefformat = ""
+  #dateformat = ""
+
+  description = ""
 
   # sidebar, copyright
+  themeColor = "theme-base-09"
   copyright = "Komuro Yuta"
   showBuiltwith = true
 
   highlightjs = true
   highlightjsstyle = "github"
 
+  # GoogleAnalytics
+  # googleAnalytics = ""
+
 ## Social Accounts
 [params.social]
+  title = "Social Accounts"
   github = "co6ted"
   linkedin = "co6ted"
   twitter = "co6ted"
