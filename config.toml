@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseURL = "https://co6ted.github.io/about/"
+baseURL = "https://co6ted.github.io/"
 languageCode = "ja"
 title = "co6ted's info"
 publishDir = "docs"
@@ -18,7 +18,6 @@ hasCJKLaunguage = true
   # sidebar, copyright
   themeColor = "theme-base-09"
   copyright = "Komuro Yuta"
-  showBuiltwith = true
 
   highlightjs = true
   highlightjsstyle = "github"
