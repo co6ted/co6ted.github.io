@@ -8,22 +8,18 @@ hasCJKLaunguage = true
 
 ## Site Setting
 [params]
-  #author = ""
-  #title = ""
-  #authorimage = ""
-  #dateformat = ""
-
-  description = ""
-
-  # sidebar, copyright
   themeColor = "theme-base-09"
-  sidebarImage = "co6ted.png"
-  copyright = "Komuro Yuta"
-
+  postNavigation = false
   highlightjs = true
   highlightjsstyle = "github"
 
-  # GoogleAnalytics
+  ## sidebar, copyright
+  authorimage = "/images/co6ted.png/"
+  #description = "技術者してます"
+  sidebarImage = "co6ted.png"
+  copyright = "Komuro Yuta"
+
+  ## GoogleAnalytics
   # googleAnalytics = ""
 
 ## Social Accounts
@@ -33,9 +29,13 @@ hasCJKLaunguage = true
   linkedin = "co6ted"
   twitter = "co6ted"
   facebook = "co6ted"
-  email = "co6ted@gmail.com"
 
 ## Main Menu
+[[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 1
+  url = "/"
 [[menu.main]]
   name = "About"
   identifier = "about"
@@ -43,9 +43,9 @@ hasCJKLaunguage = true
   url = "/about/"
 [[menu.main]]
   name = "Resume"
-  identifier = "logs"
+  identifier = "resume"
   weight = 200
-  url = "/logs/resume/"
+  url = "/resume/outline/"
 [[menu.main]]
   name = "skills"
   identifier = "skills"

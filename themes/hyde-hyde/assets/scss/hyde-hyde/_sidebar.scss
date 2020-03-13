@@ -19,15 +19,16 @@
   }
   .author-image {
     display: block;
-    margin-top: 4px;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
   }
 }
 
 .sidebar-nav {
   text-align: center;
   list-style: none;
-  margin-bottom: 2rem;
-  margin-top: 2rem;
+  margin-bottom: 0rem;
+  margin-top: 0rem;
   padding-left: 0;
 }
 
@@ -54,7 +55,7 @@
 .social {
   text-align: center;
   a {
-    padding: 0 4px;
+    padding: 0 0;
     @include link-no-decoration();
   }
 }
@@ -64,8 +65,8 @@
 }
 
 .img--headshot {
-	height: 115px;
-	width: 115px;
+	height: 100px;
+	width: 100px;
 }
 
 .img--caption {
