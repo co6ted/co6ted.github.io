@@ -17,6 +17,7 @@ hasCJKLaunguage = true
 
   # sidebar, copyright
   themeColor = "theme-base-09"
+  sidebarImage = "co6ted.png"
   copyright = "Komuro Yuta"
 
   highlightjs = true

@@ -6,6 +6,11 @@
   {{end}}
 </div>
 {{ end }}
+{{ with .Site.Params.sidebarImage }}
+<div align="center">
+  <img src="/images/{{ . }}" alt="{{ . }}" style="width:5.5rem;vertical-align:middle;margin:0;">
+</div>
+{{ end }}
 {{ with .Site.Params.showBuiltWith }}
 <div class="builtwith">
 Built with <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
