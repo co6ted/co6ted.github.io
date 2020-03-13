@@ -14,7 +14,7 @@ hasCJKLaunguage = true
   highlightjsstyle = "github"
 
   ## sidebar, copyright
-  authorimage = "/images/co6ted.png/"
+  authorimage = "/images/co6ted.png"
   #description = "技術者してます"
   sidebarImage = "co6ted.png"
   copyright = "Komuro Yuta"
