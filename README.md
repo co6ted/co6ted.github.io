@@ -56,4 +56,4 @@ $ hugo
 - その後、masterブランチにdocsフォルダをpushすることで対応している
 
 デプロイの方法は下記を参考にした
-https://qiita.com/kwappa/items/03ffdeb89039a7249619
+- https://qiita.com/kwappa/items/03ffdeb89039a7249619
