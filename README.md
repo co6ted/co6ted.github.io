@@ -50,10 +50,16 @@ $ hugo server
 $ hugo
 ```
 
-## デプロイ
+## デプロイ(手動)
 - 私の場合はGitHub Pagesを利用している
 - co6ted.github.ioリポジトリのsourceブランチにビルドしたものも含めて全てpushする
 - その後、masterブランチにdocsフォルダをpushすることで対応している
 
 デプロイの方法は下記を参考にした
 - https://qiita.com/kwappa/items/03ffdeb89039a7249619
+
+## デプロイ(自動)
+- 上記の手動方法でデプロイしていたがGitHub ActionsのWorkflowで自動デプロイできるようにした
+- co6ted.github.ioリポジトリのsourceブランチに変更したものをpushのみで良くなった
+  - 手動ではビルドをする必要もあったがworkflow処理時にビルドされる
+- その後、masterブランチのdocsフォルダにデプロイされて公開完了の流れとなった
