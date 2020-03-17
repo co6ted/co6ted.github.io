@@ -10,7 +10,7 @@ $ hugo new site <好きなフォルダ名>
 ```
 
 ### 作成されたフォルダの構成
-- archetyes
+- archetypes
   - 記事の雛型を配置するフォルダ
 - content
   - 記事を配置するフォルダ
