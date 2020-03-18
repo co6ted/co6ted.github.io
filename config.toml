@@ -17,6 +17,9 @@ hasCJKLaunguage = true
   authorimage = "/images/co6ted.png"
   sidebarImage = "co6ted.png"
   copyright = "Komuro Yuta"
+  license = "MIT"
+  licenseURL = "https://github.com/co6ted/co6ted.github.io/blob/source/themes/hyde-hyde/LICENSE.md"
+  showBuiltWith = true
 
   ## GoogleAnalytics
   # googleAnalytics = ""
