@@ -13,9 +13,10 @@ hasCJKLaunguage = true
   highlightjs = true
   highlightjsstyle = "github"
 
-  ## sidebar, copyright
+  ## sidebar
   authorimage = "/images/co6ted.png"
   sidebarImage = "co6ted.png"
+  ## copyright/Licence
   copyright = "Komuro Yuta"
   license = "MIT"
   licenseURL = "https://github.com/co6ted/co6ted.github.io/blob/source/themes/hyde-hyde/LICENSE.md"

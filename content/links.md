@@ -7,8 +7,8 @@ date = "2020-03-11"
 ### [About me](https://co6ted.github.io/about/)
 - どういう人間かを書いている
 
-### [Resume](https://co6ted.github.io/resume/outline/)
-- 経験してきた職務経歴をまとめている
+### [Logs](https://co6ted.github.io/logs/)
+- 経験してきた職務経歴書などをまとめている
 
 ### [Skills](https://co6ted.github.io/skills/skill/)
 - 実務ありなしで分類して今まで触ったことのある技術をまとめている
