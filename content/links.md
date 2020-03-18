@@ -1,8 +1,17 @@
 +++
-title = "Link一覧"
+title = "Links"
 description = "当サイトのLinkをまとめています"
 date = "2020-03-11"
 +++
+
+### [About me](https://co6ted.github.io/about/)
+- どういう人間かを書いている
+
+### [Resume](https://co6ted.github.io/resume/outline/)
+- 経験してきた職務経歴をまとめている
+
+### [Skills](https://co6ted.github.io/skills/skill/)
+- 実務ありなしで分類して今まで触ったことのある技術をまとめている
 
 ### Blogs
 - [co6ted.github.io](https://co6ted.github.io/)
@@ -15,9 +24,3 @@ date = "2020-03-11"
 - [Twitter](https://twitter.com/co6ted/)
 - [Facebook](https://www.facebook.com/co6ted/)
 - [Qiita](https://qiita.com/co6ted/)
-
-### Resume
-- [職務経歴書](https://co6ted.github.io/resume/outline/)
-
-### Skill
-- [スキル](https://co6ted.github.io/skills/skill/)

@@ -15,7 +15,6 @@ hasCJKLaunguage = true
 
   ## sidebar, copyright
   authorimage = "/images/co6ted.png"
-  #description = "技術者してます"
   sidebarImage = "co6ted.png"
   copyright = "Komuro Yuta"
 
@@ -32,27 +31,22 @@ hasCJKLaunguage = true
 
 ## Main Menu
 [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 1
-  url = "/"
-[[menu.main]]
   name = "About"
   identifier = "about"
   weight = 100
   url = "/about/"
 [[menu.main]]
-  name = "Resume"
-  identifier = "resume"
+  name = "Logs"
+  identifier = "logs"
   weight = 200
-  url = "/resume/outline/"
+  url = "/logs/"
 [[menu.main]]
   name = "skills"
   identifier = "skills"
   weight = 300
-  url = "/skills/skill/"
+  url = "/skills/"
 [[menu.main]]
   name = "Links"
   identifier = "other"
   weight = 400
-  url = "/other/link/"
+  url = "/links/"

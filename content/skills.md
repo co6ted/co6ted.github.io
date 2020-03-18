@@ -1,5 +1,5 @@
 +++
-title = "スキル一覧"
+title = "Skills"
 description = '実務経験ありとなし(趣味程度)を記載しています。'
 date = '2020-03-11'
 +++
