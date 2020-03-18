@@ -55,7 +55,7 @@
 .social {
   text-align: center;
   a {
-    padding: 0 0;
+    padding: 0 4px;
     @include link-no-decoration();
   }
 }
