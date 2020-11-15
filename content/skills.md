@@ -1,7 +1,7 @@
 +++
 title = "Skills"
 description = '実務経験ありとなし(趣味程度)を記載しています。'
-date = '2020-03-11'
+date = '2020-11-16'
 +++
 
 ### -> 実務経験あり
@@ -10,15 +10,18 @@ date = '2020-03-11'
   - JavaScript, HTML5, CSS, Shell, PL/SQL, VBA, Ruby
 - フレームワーク
   - Zend Framework[1], Spring Framework, Ruby on Rails
+- プラットフォーム
+  - AWS, GCP
 - DB
-  - Oracle[11i], AWS, Redis, MySQL, PostgreSQL
+  - Oracle[11i], Redis, MySQL, PostgreSQL
 - ミドルウェア
   - Apache, Tomcat
-- 機械学習(Machine Learning)&ディープラーニング(Deep Learning)
+- 機械学習(Machine Learning)&深層学習(Deep Learning)
   - Numpy, Pandas, SciPy, Matplotlib, scikit-learn
+  - Tensorflow
 - ツール
   - コミュニケーション
-    - Slack, Hipchat, Zoom
+    - Slack, Hipchat, Zoom, MS Teams
   - バージョン管理
     - Git, SVN, Bitbucket, TortoiseGit
   - プロジェクト管理
@@ -41,6 +44,6 @@ date = '2020-03-11'
   - バージョン管理
     - Github, GitLab
   - プロジェクト管理
-    - Trello, Wunderlist
+    - Trello
   - Wiki
-    - Notion, ScrapBox
+    - Notion, ScrapBox, GoogleSites

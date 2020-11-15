@@ -1,7 +1,7 @@
 +++
 title = "Links"
 description = "当サイトのLinkをまとめています"
-date = "2020-03-11"
+date = "2020-11-16"
 +++
 
 ### [About me](https://co6ted.github.io/about/)
@@ -23,4 +23,3 @@ date = "2020-03-11"
 - [Linkedin](https://www.linkedin.com/in/co6ted/)
 - [Twitter](https://twitter.com/co6ted/)
 - [Facebook](https://www.facebook.com/co6ted/)
-- [Qiita](https://qiita.com/co6ted/)
