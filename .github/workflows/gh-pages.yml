@@ -22,16 +22,11 @@ jobs:
         # extended: true
 
     - name: Build
-      #run: hugo --gc --minify --cleanDestinationDir
-      echo "hugo --gc --minify --cleanDestinationDir" >> $GITHUB_PATH
+      run: hugo --gc --minify --cleanDestinationDir
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0
-      #env:
-        #ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        #PUBLISH_BRANCH: master
-        #PUBLISH_DIR: ./docs
-      run: |
-        echo "ACTIONS_DEPLOY_KEY=${{ secrets.ACTIONS_DEPLOY_KEY }}" >> $GITHUB_ENV
-        echo "PUBLISH_BRANCH=master" >> $GITHUB_ENV
-        echo "PUBLISH_DIR=./docs" >> $GITHUB_ENV
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: master
+        PUBLISH_DIR: ./docs
