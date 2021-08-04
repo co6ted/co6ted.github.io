@@ -27,7 +27,7 @@ date = '2021-08-04'
   - バージョン管理
     - Git, SVN, Bitbucket, TortoiseGit
   - プロジェクト管理
-    - Redmine, JIRA
+    - Redmine, Jira
   - Wiki
     - Redmine, Confluence
   - CI/CD

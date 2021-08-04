@@ -36,4 +36,4 @@ Oracle, AWS, Redis, MySQL, PostgreSQL
 Apache, Tomcat
 
 ##### ツール
-Temas, Slack, Hipchat, Zoom, Git, Bitbucket, Redmine, JIRA, Confluence, Jenkins, Docker, Vagrant, VirtualBox
+Temas, Slack, Hipchat, Zoom, Git, Bitbucket, Redmine, Jira, Confluence, Jenkins, Docker, Vagrant, VirtualBox
