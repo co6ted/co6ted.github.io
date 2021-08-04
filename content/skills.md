@@ -1,7 +1,7 @@
 +++
 title = "Skills"
 description = '実務経験ありとなし(趣味程度)を記載しています。'
-date = '2020-11-16'
+date = '2021-08-04'
 +++
 
 ### -> 実務経験あり
@@ -19,6 +19,8 @@ date = '2020-11-16'
 - 機械学習(Machine Learning)&深層学習(Deep Learning)
   - Numpy, Pandas, SciPy, Matplotlib, scikit-learn
   - Tensorflow
+  - データ収集
+    - BeautifulSoup[4], Selenium
 - ツール
   - コミュニケーション
     - Slack, Hipchat, Zoom, MS Teams
