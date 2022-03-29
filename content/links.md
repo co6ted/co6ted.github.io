@@ -1,11 +1,11 @@
 +++
 title = "Links"
 description = "当サイトのLinkをまとめています"
-date = "2021-08-04"
+date = "2022-03-29"
 +++
 
 ### [About me](https://co6ted.github.io/about/)
-- どういう人間かを書いている
+- 名前、経験、趣味などをまとめている
 
 ### [Logs](https://co6ted.github.io/logs/)
 - 経験してきた職務経歴書などをまとめている

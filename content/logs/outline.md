@@ -1,14 +1,28 @@
 +++
 title = "職務経歴書概要"
 description = "大まかな概要を記載しています"
-date = "2021-08-04"
+date = "2022-03-29"
 +++
 
-### -> 株式会社MC(2021/06 - 現職)
-- 医療向けシステム開発
+### -> 医療向けHP開発会社(2021/06 - 現職)
+- 医療向け予約システム開発
 
-### -> AH株式会社(2016/04 - 2021/06)
-- 消費者向け不動産物件サイトの開発・保守運用
+### スキル
+##### 言語
+- PHP[8.x]
+
+##### フレームワーク
+- Laravel[5.x, 8.x]
+
+##### DB
+- AWS
+
+##### ツール
+- Backlog, Teams, Zoom
+
+
+### -> 不動産物件サイト運営会社(2016/04 - 2021/06)
+- 不動産物件サイトの開発・保守運用
   - 相場サイトの開発・保守運用
   - 戸建物件業務システム新機能の企画・開発・保守運用
   - 企画管理者向け業務効率化ツールの開発
@@ -24,16 +38,16 @@ date = "2021-08-04"
 
 #### スキル
 ##### 言語
-PHP, Smarty, Java, JavaScript, jQuery, HTML, Shell, PL/SQL, VBA, Ruby, Python, Node.js
+- PHP, Smarty, Java, JavaScript, jQuery, HTML, Shell, PL/SQL, VBA, Ruby, Python, Node.js
 
 ##### フレームワーク
-Zend Framework, Ruby on Rails, Spring Framework
+- Zend Framework, Ruby on Rails, Spring Framework
 
 ##### DB
-Oracle, AWS, Redis, MySQL, PostgreSQL
+- Oracle, AWS, Redis, MySQL, PostgreSQL
 
 ##### その他ミドルウェア
-Apache, Tomcat
+- Apache, Tomcat
 
 ##### ツール
-Temas, Slack, Hipchat, Zoom, Git, Bitbucket, Redmine, Jira, Confluence, Jenkins, Docker, Vagrant, VirtualBox
+- Temas, Slack, Hipchat, Zoom, Git, Bitbucket, Redmine, Jira, Confluence, Jenkins, Docker, Vagrant, VirtualBox

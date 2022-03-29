@@ -1,12 +1,12 @@
 +++
 title = "Skills"
 description = '実務経験ありとなし(趣味程度)を記載しています。'
-date = '2021-08-04'
+date = '2022-03-29'
 +++
 
 ### -> 実務経験あり
 - 言語
-  - PHP[5.x], Smarty[2.6.x], jQuery[1.8.x], Python[3.x], Node.js[10.x/8.x], Java[8]
+  - PHP[5.x, 8.x], Smarty[2.6.x], jQuery[1.8.x], Python[3.x], Node.js[10.x/8.x], Java[8]
   - JavaScript, HTML5, CSS, Shell, PL/SQL, VBA, Ruby
 - フレームワーク
   - Zend Framework[1], Spring Framework, Ruby on Rails
@@ -27,7 +27,7 @@ date = '2021-08-04'
   - バージョン管理
     - Git, SVN, Bitbucket, TortoiseGit
   - プロジェクト管理
-    - Redmine, Jira
+    - Redmine, Jira, Backlog
   - Wiki
     - Redmine, Confluence
   - CI/CD
