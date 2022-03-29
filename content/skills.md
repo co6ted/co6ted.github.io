@@ -9,7 +9,7 @@ date = '2022-03-29'
   - PHP[5.x, 8.x], Smarty[2.6.x], jQuery[1.8.x], Python[3.x], Node.js[10.x/8.x], Java[8]
   - JavaScript, HTML5, CSS, Shell, PL/SQL, VBA, Ruby
 - フレームワーク
-  - Zend Framework[1], Spring Framework, Ruby on Rails
+  - Laravel[5.x, 8.x], Zend Framework[1], Spring Framework, Ruby on Rails
 - プラットフォーム
   - AWS, GCP
 - DB
